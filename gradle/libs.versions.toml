@@ -1,6 +1,6 @@
 [versions]
 coilCompose = "2.5.0"
-coreKtx = "1.12.0"
+coreKtx = "1.15.0"
 appcompat = "1.6.1"
 activityCompose = "1.8.1"
 gradle = "8.1.2"
