@@ -2,7 +2,7 @@
 coilCompose = "2.5.0"
 coreKtx = "1.12.0"
 appcompat = "1.6.1"
-activityCompose = "1.8.1"
+activityCompose = "1.9.3"
 gradle = "8.1.2"
 insetsx = "0.1.0-alpha10"
 insetsxVersion = "0.1.0-alpha10"
