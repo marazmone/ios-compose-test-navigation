@@ -17,7 +17,7 @@ kotlinCoroutines = "1.7.3"
 jdk = "17"
 compileSdk = "34"
 minSdk = "24"
-composeBom = "2023.10.01"
+composeBom = "2025.01.00"
 
 
 [libraries]
